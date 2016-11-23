@@ -1,0 +1,7 @@
+Unsupported option /afs/cern.ch/user/m/mverweij/work/pPb8TeV/rates/chrisTool/DQM
+Will count events by HLT:--minrun
+Counting between runs 0 and 0, according to the JSON file /afs/cern.ch/user/m/mverweij/work/pPb8TeV/rates/chrisTool/rateDir/JSONDir/json_8tev.txt
+Using the DQM files in /afs/cern.ch/user/e/echapon/workspace/public/RunPrep2016/HLT_runbyrun/DQMfiles
+
+terminate called after throwing an instance of 'boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::property_tree::json_parser::json_parser_error> >'
+  what():  <unspecified file>(25): expected ',' or ']'

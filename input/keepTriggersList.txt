@@ -1,0 +1,5 @@
+HLT*MinimumBiasHF_OR*
+HLT*SinglePhoton*!Mu
+HLT*DoublePhoton*!Mu
+HLT*Calo*!BJet*!Mu*!Eta1*!Eta2*!Di
+HLT*PF*!BJet*!Mu*!Eta1*!Eta2*!Di
